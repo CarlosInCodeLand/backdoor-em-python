@@ -23,7 +23,6 @@ Permite navegação entre diretórios
 Certifique-se de ter o Python instalado.
 
 Execute o script da seguinte forma:
-
 python3 backdoor.py <ip_alvo> <porta>
 
 Exemplo:
